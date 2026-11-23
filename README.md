@@ -17,6 +17,7 @@ python3 -P -s main.py
 - Perft exact to depth 4 (24/24 positions).
 - Practice trial vs the kit's reference opponents: 3 wins, 1 draw, 2 losses — Elo 1364.
 - Worst move time 6.48 s across 322 moves (60,000-node budget, 10 s limit).
+- Average move time 3.26 s over the same 322-move trial, with every move inside 9 s.
 
 ---
 
